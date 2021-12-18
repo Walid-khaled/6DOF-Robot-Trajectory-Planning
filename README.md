@@ -21,6 +21,6 @@ from configuration q0 to configuration qf in joint space.
 |    ├── FK.m                      <- contains forward kinematics function to get end-effector position
 |    ├── Polynomial.m              <- contains polynomial solution function
 |
-├── Report 
+├── Report.pdf 
 └── Readme.md
 ```
