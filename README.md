@@ -14,7 +14,7 @@ from configuration q0 to configuration qf in joint space.
 ### Table of Content 
 ```
 ├── src                            <- directory for source files 
-|    ├── main.m                    <- contains python code main script (to be run)
+|    ├── main.m                    <- contains MATLAB code main script (to be run)
 |    ├── Trajectory.m              <- contains concept for single joint trajectory (position-velocity-acceleration)
 |    ├── TrajectoryTimePlanning.m  <- contains trajectory function to be called for each joint
 |    ├── NumericalTrajectory.m     <- contains numerical control function
